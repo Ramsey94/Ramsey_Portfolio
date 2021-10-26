@@ -6,3 +6,5 @@ Porfolio for all projects I've worked on
 * Engineered comparing fundamental frequency of voice while singing agains MIDI references
 * Real time evaluation of pitch against reference using Matlab lenguage 
 
+![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/SingItFrontReview.jpg)
+
