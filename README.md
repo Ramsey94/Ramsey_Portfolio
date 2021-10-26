@@ -7,5 +7,5 @@ Porfolio for all projects I've worked on
 * Real time evaluation of pitch against reference using Matlab lenguage 
 
 ![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/SingItFrontView.png)
-![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/SingItFrontReview.jpg)
+
 
