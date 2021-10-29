@@ -9,7 +9,7 @@ Porfolio for all projects I've worked on
 ![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/SingItFrontView.png)
 
 
-# [Project 2: Net hourly electrical energy output prediction model](https://github.com/Ramsey94/SingIt)
+# [Project 2: Net hourly electrical energy output prediction model](https://github.com/Ramsey94/Energy_prediction_model)
 * Multiple linear regression model created using publicly available data where basic concepts were taken into account
 * splitting gata into training and test data sets
 * evaluating model
