@@ -16,5 +16,4 @@ Porfolio for all projects I've worked on
 * predicting the results of the dependent variable
 * visualizing the predicted values in a scatter plot
 
-
-
+![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/scatterplot.png)
