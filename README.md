@@ -24,4 +24,4 @@ Porfolio for all projects I've worked on
 * Automatic feature extraction of reading time
 * Report generation about signal cleaning
 
-![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/AnalyzeIt.png)
+![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/analyzeIt.png)
