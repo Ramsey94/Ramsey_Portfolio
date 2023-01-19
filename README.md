@@ -18,7 +18,7 @@ Porfolio for all projects I've worked on
 
 ![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/scatterplot.png)
 
-# [Project 3: Audio Analyzis tool for feature extraction and silence removal](https://github.com/Ramsey94/Energy_prediction_model)
+# [Project 3: Audio Analyzis tool for feature extraction and silence removal](https://github.com/Ramsey94/AudioProcessing)
 * Windows desktop app python based to remove silences from multiple audios at the time using Librosa
 * Modern looking GUI design using Tkinter
 * Automatic feature extraction of reading time
