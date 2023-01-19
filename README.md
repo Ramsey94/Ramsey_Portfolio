@@ -17,3 +17,11 @@ Porfolio for all projects I've worked on
 * visualizing the predicted values in a scatter plot
 
 ![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/scatterplot.png)
+
+# [Project 3: Audio Analyzis tool for feature extraction and silence removal](https://github.com/Ramsey94/Energy_prediction_model)
+* Windows desktop app python based to remove silences from multiple audios at the time using Librosa
+* Modern looking GUI design using Tkinter
+* Automatic feature extraction of reading time
+* Report generation about signal cleaning
+
+![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/AnalyzeIt.png)
