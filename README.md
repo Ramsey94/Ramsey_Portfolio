@@ -6,7 +6,7 @@ Porfolio for all projects I've worked on
 
 Find more info about the project on: https://smarttravel.world/
 
-![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/SmartTravel_V3c.png)
+![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/stpg.png)
 
 
 # [Project 2: Auditive tool for music students: Project Overview](https://github.com/Ramsey94/SingIt)
