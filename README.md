@@ -7,23 +7,13 @@ Porfolio for all projects I've worked on
 Find more info about the project on: https://smarttravel.world/
 
 ![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/stpg.png)
-<style>
-  .image-container {
-    text-align: center;
-  }
-
-  .image-container img {
-    width: 300px;
-    margin: 10px; /* Adjust the margin as needed for spacing */
-  }
-</style>
-
-<div class="image-container">
-  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture1.png" alt="App Clima Cloudy" />
-  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture2.png" alt="App Clima Snow" />
-  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture3.png" alt="App Clima Cloudy" />
-  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/ST5.png" alt="App Clima Snow" />
-  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/ST6.png" alt="App Clima Snow" />
+<div align="center">
+  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture2.png" alt="App Clima Snow" width="300"/>
+  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture3.png" alt="App Clima Cloudy" width="300"/>
+</div>
+<div align="center">
+  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/ST5.png" alt="App Clima Snow" width="300"/>
+  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/ST6.png" alt="App Clima Snow" width="300"/>
 </div>
 
 
