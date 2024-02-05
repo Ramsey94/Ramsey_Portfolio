@@ -11,6 +11,10 @@ Find more info about the project on: https://smarttravel.world/
   <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture1.png" alt="App Clima Cloudy" width="300"/>
   <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture2.png" alt="App Clima Snow" width="300"/>
 </div>
+<div align="center">
+  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture3.png" alt="App Clima Cloudy" width="300"/>
+  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture4.png" alt="App Clima Snow" width="300"/>
+</div>
 
 
 # [Project 2: Weather widget ](https://github.com/Ramsey94/weather_widget)
