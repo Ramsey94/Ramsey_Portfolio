@@ -7,37 +7,10 @@ Porfolio for all projects I've worked on
 Find more info about the project on: https://smarttravel.world/
 
 ![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/stpg.png)
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Grid</title>
-    <style>
-        body {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-
-        img {
-            max-width: 100%;
-            height: auto;
-            margin: 10px;
-        }
-    </style>
-</head>
-<body>
-
-    <img src="app_clima_cloudy.png" alt="Picture1" width="300" height="200">
-    <img src="app_clima_snow.png" alt="Picture2" width="300" height="200">
-    <!-- Add the other two images here with similar img tags -->
-
-</body>
-</html>
+<div align="center">
+  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture1.png" alt="App Clima Cloudy" width="300"/>
+  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture2.png" alt="App Clima Snow" width="300"/>
+</div>
 
 
 # [Project 2: Weather widget ](https://github.com/Ramsey94/weather_widget)
