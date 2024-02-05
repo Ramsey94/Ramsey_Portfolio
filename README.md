@@ -6,7 +6,7 @@ Porfolio for all projects I've worked on
 
 Find more info about the project on: https://smarttravel.world/
 
-![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/stpg.png)
+![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/stpg2.png)
 <div align="center">
   <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture2.png" alt="App Clima Snow" width="300"/>
   <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture3.png" alt="App Clima Cloudy" width="300"/>
