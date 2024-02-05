@@ -7,14 +7,60 @@ Porfolio for all projects I've worked on
 Find more info about the project on: https://smarttravel.world/
 
 ![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/stpg.png)
-<div align="center">
-  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture1.png" alt="App Clima Cloudy" width="300"/>
-  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture2.png" alt="App Clima Snow" width="300"/>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Smart Travel Image Carousel</title>
+  <style>
+    .carousel-container {
+      width: 100%;
+      overflow: hidden;
+    }
+
+    .carousel-wrapper {
+      display: flex;
+      transition: transform 0.5s ease-in-out;
+    }
+
+    .carousel-item {
+      min-width: 100%;
+      box-sizing: border-box;
+    }
+  </style>
+</head>
+<body>
+
+<div class="carousel-container">
+  <div class="carousel-wrapper">
+    <div class="carousel-item">
+      <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture1.png" alt="App Clima Cloudy" width="300"/>
+    </div>
+    <div class="carousel-item">
+      <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture2.png" alt="App Clima Snow" width="300"/>
+    </div>
+    <div class="carousel-item">
+      <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture3.png" alt="App Clima Cloudy" width="300"/>
+    </div>
+    <div class="carousel-item">
+      <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture4.png" alt="App Clima Snow" width="300"/>
+    </div>
+  </div>
 </div>
-<div align="center">
-  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture3.png" alt="App Clima Cloudy" width="300"/>
-  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture4.png" alt="App Clima Snow" width="300"/>
-</div>
+
+<script>
+  const wrapper = document.querySelector('.carousel-wrapper');
+  let currentIndex = 0;
+
+  setInterval(() => {
+    currentIndex = (currentIndex + 1) % 4;
+    wrapper.style.transform = `translateX(${-currentIndex * 100}%)`;
+  }, 3000); // Change image every 3 seconds (adjust as needed)
+</script>
+
+</body>
+</html>
 
 
 # [Project 2: Weather widget ](https://github.com/Ramsey94/weather_widget)
