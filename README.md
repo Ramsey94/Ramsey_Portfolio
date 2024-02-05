@@ -17,6 +17,8 @@ Find more info about the project on: https://smarttravel.world/
   <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/app_clima_snow.png" alt="App Clima Snow" width="300"/>
 </div>
 
+Findo more Info about the API here: https://openweathermap.org/api
+
 # [Project 3: Auditive tool for music students](https://github.com/Ramsey94/SingIt)
 * Audiovisual tool for the study of music theory, aimed at students of a higher education music program, focused on improving the tuning and rhythmic precision.
 * Engineered comparing fundamental frequency of voice while singing agains MIDI references
