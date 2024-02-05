@@ -8,12 +8,12 @@ Find more info about the project on: https://smarttravel.world/
 
 ![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/stpg2.png)
 <div align="center">
-  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture2.png" alt="App Clima Snow" width="600"/>
-  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture3.png" alt="App Clima Cloudy" width="600"/>
+  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture2.png" alt="App Clima Snow" width="400"/>
+  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture3.png" alt="App Clima Cloudy" width="400"/>
 </div>
 <div align="center">
-  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/ST5.png" alt="App Clima Snow" width="300"/>
-  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/ST6.png" alt="App Clima Snow" width="300"/>
+  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/ST5.png" alt="App Clima Snow" width="500"/>
+  <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/ST6.png" alt="App Clima Snow" width="500"/>
 </div>
 
 
