@@ -12,12 +12,12 @@ Find more info about the project on: https://smarttravel.world/
 # [Project 2: Weather widget ](https://github.com/Ramsey94/weather_widget)
 * A dynamic and interactive application designed with React. This innovative widget seamlessly integrates with the OpenWeather's "Weather API" to retrieve real-time weather information from various locations. The user-friendly interface presents a visually appealing display of climate conditions, enhancing the user experience with interactive widgets that adapt to the specific weather of the chosen location. Whether it's sunny skies, rain, or snow, the Weather Widget provides an engaging and informative way to stay updated on the ever-changing atmospheric conditions.
 
+Find more Info about the API here: https://openweathermap.org/api
+
 <div align="center">
   <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/app_clima_cloudy.png" alt="App Clima Cloudy" width="300"/>
   <img src="https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/app_clima_snow.png" alt="App Clima Snow" width="300"/>
 </div>
-
-Findo more Info about the API here: https://openweathermap.org/api
 
 # [Project 3: Auditive tool for music students](https://github.com/Ramsey94/SingIt)
 * Audiovisual tool for the study of music theory, aimed at students of a higher education music program, focused on improving the tuning and rhythmic precision.
