@@ -1,5 +1,5 @@
 # Ramsey_Portfolio
-Porfolio for all projects I've worked on
+Porfolio for some projects I've worked on
 
 # [Project 1: Smart Travel](https://github.com/dbolivar9/SmartTravel)
 * Smart Travel is a powerful and user-friendly application designed to revolutionize the way we plan and experience our journeys. This project focuses on providing users with a seamless and efficient solution for creating personalized travel itineraries. The goal is to take the hassle out of trip planning, allowing users to fully enjoy their travels without the stress of meticulous scheduling.
@@ -9,6 +9,7 @@ Find more info about the project on: https://smarttravel.world/
 ![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/stpg2.png)
 ![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture2.png)
 ![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture3.png)
+![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/ST5.png)
 ![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/ST6.png)
 
 # [Project 2: Weather widget ](https://github.com/Ramsey94/weather_widget)
