@@ -8,12 +8,12 @@ For more information about the project, visit: [Smart Travel](https://smarttrave
 
 Technologies utilized:
 
-Python
-Streamlit
-Folium
-AWS (EC2 and S3)
-Google Cloud Services (Geocoding API, Places API)
-Git
+* Python
+* Streamlit
+* Folium
+* AWS (EC2 and S3)
+* Google Cloud Services (Geocoding API, Places API)
+* Git
 
 ![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/st_collage.png)
 
