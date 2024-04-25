@@ -4,7 +4,7 @@ Porfolio for some projects I've worked on
 # [Project 1: Smart Travel](https://github.com/dbolivar9/SmartTravel)
 Smart Travel is a powerful and user-friendly application designed to revolutionize the way we plan and experience our journeys. This project focuses on providing users with a seamless and efficient solution for creating personalized travel itineraries, aiming to eliminate the hassle of trip planning and allow users to fully enjoy their travels without the stress of meticulous scheduling.
 
-For more information about the project, visit: [Smart Travel Website](https://smarttravel.world/)
+For more information about the project, visit: [Smart Travel](https://smarttravel.world/)
 
 Technologies utilized:
 
