@@ -39,11 +39,12 @@ Find more Info about the API here: https://openweathermap.org/api
 # [Project 4: Auditive tool for music students](https://github.com/Ramsey94/SingIt)
 * Audiovisual tool for the study of music theory, aimed at students of a higher education music program, focused on improving the tuning and rhythmic precision.
 * Engineered comparing fundamental frequency of voice while singing agains MIDI references
-* Real time evaluation of pitch against reference using Matlab lenguage 
+* Real time evaluation of pitch against reference using Matlab lenguage
+* You can find a DEMO video and a link to the first verssion [here](https://www.youtube.com/watch?v=XRWKA-95zCw&ab_channel=_Darkny_)
 
 ![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/SingItFrontView.png)
 
-You can find a DEMO video and a link to the first verssion here: [SingIt](https://www.youtube.com/watch?v=XRWKA-95zCw&ab_channel=_Darkny_)
+
 
 
 
