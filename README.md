@@ -40,7 +40,7 @@ Find more Info about the API here: https://openweathermap.org/api
 * Audiovisual tool for the study of music theory, aimed at students of a higher education music program, focused on improving the tuning and rhythmic precision.
 * Engineered comparing fundamental frequency of voice while singing agains MIDI references
 * Real time evaluation of pitch against reference using Matlab lenguage
-* You can find a DEMO video and a link to the first verssion [here](https://www.youtube.com/watch?v=XRWKA-95zCw&ab_channel=_Darkny_)
+* You can find a video DEMO and a Downloadable to try it yourself [here](https://www.youtube.com/watch?v=XRWKA-95zCw&ab_channel=_Darkny_)
 
 ![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/SingItFrontView.png)
 
