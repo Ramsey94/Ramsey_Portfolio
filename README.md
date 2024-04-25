@@ -43,5 +43,7 @@ Find more Info about the API here: https://openweathermap.org/api
 
 ![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/SingItFrontView.png)
 
+You can find a DEMO video and a link to the first verssion here: [SingIt]([https://smarttravel.world/](https://www.youtube.com/watch?v=XRWKA-95zCw&ab_channel=_Darkny_))
+
 
 
