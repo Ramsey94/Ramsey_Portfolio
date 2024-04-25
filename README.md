@@ -15,11 +15,7 @@ AWS (EC2 and S3)
 Google Cloud Services (Geocoding API, Places API)
 Git
 
-![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/stpg2.png)
-![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture2.png)
-![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/Picture3.png)
-![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/ST5.png)
-![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/ST6.png)
+![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/st_collage.png)
 
 # [Project 2: Weather widget ](https://github.com/Ramsey94/weather_widget)
 * A dynamic and interactive application designed with React. This innovative widget seamlessly integrates with the OpenWeather's "Weather API" to retrieve real-time weather information from various locations. The user-friendly interface presents a visually appealing display of climate conditions, enhancing the user experience with interactive widgets that adapt to the specific weather of the chosen location. Whether it's sunny skies, rain, or snow, the Weather Widget provides an engaging and informative way to stay updated on the ever-changing atmospheric conditions.
