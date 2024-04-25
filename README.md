@@ -4,8 +4,10 @@ Porfolio for some projects I've worked on
 # Project 1: Professional Dashboards
 * Modern looking and interactive PowerBI Dashboards
 
-![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/accidentes:transito_power_bi.jpg)
+![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/accidentes_transito_power_bi.jpg)
+
 ![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/servicio_al_cliente_power_bi.jpg)
+
 ![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/ventas_power_bi.jpg)
 
 # [Project 2: Smart Travel](https://github.com/dbolivar9/SmartTravel)
