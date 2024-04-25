@@ -4,9 +4,9 @@ Porfolio for some projects I've worked on
 # Project 1: Professional Dashboards
 * Modern looking and interactive PowerBI Dashboards
 
-![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/accidentes:transito_power_bi.JPG)
-![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/servicio_al_cliente_power_bi.JPG)
-![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/ventas_power_bi.JPG)
+![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/accidentes:transito_power_bi.jpg)
+![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/servicio_al_cliente_power_bi.jpg)
+![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/ventas_power_bi.jpg)
 
 # [Project 2: Smart Travel](https://github.com/dbolivar9/SmartTravel)
 Smart Travel is a powerful and user-friendly application designed to revolutionize the way we plan and experience our journeys. This project focuses on providing users with a seamless and efficient solution for creating personalized travel itineraries, aiming to eliminate the hassle of trip planning and allow users to fully enjoy their travels without the stress of meticulous scheduling.
