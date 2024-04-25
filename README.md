@@ -1,7 +1,7 @@
 # Ramsey_Portfolio
 Porfolio for some projects I've worked on
 
-# [Project 1: Professional Dashboards]
+# Project 1: Professional Dashboards
 * Modern looking and interactive PowerBI Dashboards
 
 ![](https://github.com/Ramsey94/Ramsey_Portfolio/blob/main/images/analyzeit.png)
